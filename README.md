@@ -1,5 +1,5 @@
 # ROS-Robot-Design-in-Gazebo
-This repo contains a ROS based urdf file that's used for designing a robot for visualization on the Gazebo Sim. 
+This repo contains a ROS based urdf file that's used for designing a simple differential drive  robot for visualization on the Gazebo Sim. 
 
 OS:  Ubuntu Xenial 16.04 LTS, ROS: Kinetic
 
